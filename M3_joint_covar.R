@@ -4,7 +4,7 @@
 #             et longueur corporelle (croissance)
 #
 # Alice Bordes, M2 Internship, Febrary - July 2023  
-# A two-species (sardine and anchovy) life-cycle model - Golfe de Gascogne - 2000 à 2019
+# A two-species (sardine and anchovy) life-cycle model - Golfe de Gascogne - 2000 à 2022
 #
 # --------------------------------------------------------
 # --------------------------------------------------------

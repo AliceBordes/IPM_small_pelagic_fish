@@ -1,7 +1,8 @@
 # --------------------------------------------------------
 # --------------------------------------------------------
-#        Modélisation dynamique abondance (mortalité) 
-#             et longueur corporelle (croissance)
+#    Unraveling the mortality, growth and recruitment processes 
+#    underlying the population dynamics of a small pelagic system 
+#    using a Bayesian life cycle model 
 #
 # Alice Bordes, M2 Internship, Febrary - July 2023  
 # A two-species (sardine and anchovy) life-cycle model - Golfe de Gascogne - 2000 à 2022
@@ -16,7 +17,7 @@
 
 rm(list=ls())
 
-#importtion librairie
+#importation librairie
 library(dclone)
 library(rjags)
 library(MASS)
